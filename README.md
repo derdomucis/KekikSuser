@@ -1,27 +1,31 @@
-# KekikSuser
-Telegram Gruptan Gruba User Ekleme
 
-```bash
-pip install -r requirements.txt
-python basla.py
+# Müzik Bot 🇹🇷
+- [Müzik Bot](https://t.me/StarMuzikBot) Telegram Müzik Bot .
 
-# 1- İstediğiniz Kadar Session Oluşturabilirsiniz..
-# 2- Oluşan Session'ların dahil olukları grupların tümünün kullanıcılarını ayıklar
-# 3- Hedef gruba ekleme yapar; açılan liste ilk eklediğiniz session'un dahil olduğu gruplardır !!!
-```
+# Support 
+- [Support](https://t.me/StarBotKanal) Telegram Support Grub .
 
-## 💸 Bağış Yap
-[☕️ Kahve Ismarla](https://kekikakademi.org/Kahve)
 
-## 🌐 Telif Hakkı ve Lisans
+### ⏳ Genel Komutlar
+- `/oynat` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ᴏʏɴᴀᴛ**
+- `/voynat` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ᴏʏɴᴀᴛ**
+- `/bul` •> **ɪsᴛᴇᴅɪɢɪɴ sᴀʀᴋɪʏɪ ɪɴᴅɪʀ** 
+- `/durdur` •> **sᴀʀᴋɪʏɪ ᴅᴜʀᴅᴜʀ**
+- `/devam` •> **sᴀʀᴋɪʏɪ sᴜʀᴅᴜʀ**
+- `/atla` •> **sᴀʀᴋɪʏɪ ᴀᴛʟᴀʀ** 
+- `/son` •> **sᴀʀᴋɪʏɪ sᴏɴʟᴀɴᴅɪʀ**
+- `/reload` •> **ᴀᴅᴍɪɴ ʟɪsᴛᴇsɪɴɪ ɢᴜɴᴄᴇʟʟᴇʀ** 
+- `/katil` •> **ᴀsɪsᴛᴀɴ ɢʀᴜʙᴀ ᴋᴀᴛɪʟɪʀ**
+- `/ayril` •> **ᴀsɪsᴛᴀɴ ɢʀʏʙᴛᴀɴ ᴀʏʀɪʟɪʀ**
+- `/auth` •> **ᴋᴜʟʟᴀᴄɪʏɪ ʏᴇᴛᴋɪʟᴇɴᴅɪʀɪʀ**
+- `/unauth` •> **ᴋᴜʟʟᴀɴɪᴄɪʏɪ ʏᴇᴛᴋɪsɪᴢʟᴇsᴛɪʀɪʀ**
+- `/clean` •> **ʙᴏᴛᴜɴ ɪᴄɪɴᴅᴇᴋɪ ᴏɴᴇᴍsɪᴢ ᴠᴇʀɪʟᴇʀɪ ᴛᴇᴍɪᴢʟᴇʀ**
 
-* *Copyright (C) 2021 by* [keyiflerolsun](https://github.com/keyiflerolsun) ❤️️
-* [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/keyiflerolsun/keyifUserBot/blob/master/LICENSE) *Koşullarına göre lisanslanmıştır..*
 
-## ♻️ İletişim
+### Heroku Kurulum ⏳
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MehmetAtes21/Music)
+-
 
-*Benimle iletişime geçmek isterseniz, **Telegram**'dan mesaj göndermekten çekinmeyin;* [@keyiflerolsun](https://t.me/keyiflerolsun)
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/MehmetAtes21/Music"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200" height="35.45"/></a></p>
 
-##
-
-> **[@KekikAkademi](https://t.me/KekikAkademi)** *için yazılmıştır..*
+- Bu botu barındırmanın ikinci en kolay yolu, Okteto Cloud'da Dağıt. 
